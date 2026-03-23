@@ -1,1 +1,0 @@
-# orman-yangin-simulation
